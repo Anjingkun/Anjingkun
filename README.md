@@ -16,7 +16,7 @@
 
 **About me**
 
-- 😄 I’m a first-year MS student at [Beihang University](https://iai.buaa.edu.cn/) and currently a research intern at [School of Computer Science in Peking University](https://cs.pku.edu.cn/).
+- 😄 I’m a Research Assistant at [School of Computer Science in Peking University](https://cs.pku.edu.cn/).
   -   Before that, I interned at [School of Electronic and Computer Engineering in Peking University](https://www.ece.pku.edu.cn/).
 - ❤️ currently learning the Multimodal Large Language Model Applications:
   -  Embodied Agents in simulated worlds like Minecraft.
