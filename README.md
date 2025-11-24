@@ -19,7 +19,7 @@
 - 😄 I’m a Research Assistant at [School of Computer Science in Peking University](https://cs.pku.edu.cn/).
   -   Before that, I interned at [School of Electronic and Computer Engineering in Peking University](https://www.ece.pku.edu.cn/).
 - ❤️ currently learning the Multimodal Large Language Model Applications:
-  -  Embodied Agents in simulated worlds like Minecraft.
+  -  Spatial Intelligence.
   -  Robot Manipulation in the real world.
 - 💬 reach me by [email](mailto:anjingkun02@gmail.com) if you are curious about something.
 - 🔭 Welcome to see my webpage at [https://anjingkun.github.io/](https://anjingkun.github.io/).
